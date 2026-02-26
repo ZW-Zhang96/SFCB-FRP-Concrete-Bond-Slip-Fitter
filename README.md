@@ -60,13 +60,6 @@ Column 2: Bond Stress (in MPa).
 
 Note: Do not include text headers in the file. Ensure values are non-negative.
 
-Example (data.txt):
-
-0.000   0.000
-0.521   3.450
-1.034   7.890
-1.550   12.30
-...
-
 📝 License
+
 This project is open-sourced under the MIT License. Feel free to use, modify, and distribute it for academic and engineering purposes.
